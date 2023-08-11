@@ -1,6 +1,6 @@
 ### converted2train&test.py
 
-转换前：
+(Before conversion)转换前：
 
 ```
 ├── your_dataset_name
@@ -15,7 +15,7 @@
     ├── ...
 ```
 
-转换后：
+(After conversion)转换后：
 
 ```
 ├── your_dataset_name
@@ -34,7 +34,7 @@
 
 ### converted2train&val&test.py
 
-转换前：
+(Before conversion)转换前：
 
 ```
 ├── your_dataset_name
@@ -49,7 +49,7 @@
     ├── ...
 ```
 
-转换后：
+(After conversion)转换后：
 
 ```
 ├── your_dataset_name
