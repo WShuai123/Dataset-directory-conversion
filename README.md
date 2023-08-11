@@ -15,6 +15,8 @@
 ```
 
 转换后：
+
+```
 ├── your_dataset_name
     ├── training
     |   ├── class_1
@@ -27,10 +29,13 @@
     |   │   ├── ...
     |   ├── ...
     └── test
-    
+```
+
 ### converted2train&val&test.py
+
 转换前：
 
+```
 ├── class_1
 |   ├── img_1.jpg  # .png
 │   ├── img_2.jpg
@@ -40,8 +45,11 @@
 │   ├── img_b.jpg
 │   ├── ...
 ├── ...
+```
 
 转换后：
+
+```
 ├── your_dataset_name
     ├── training
     |   ├── class_1
@@ -55,4 +63,4 @@
     |   ├── ...
     └── validation
     └── test
-    
+```
